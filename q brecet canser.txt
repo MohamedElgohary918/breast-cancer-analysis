@@ -1,0 +1,24 @@
+Q1: Load the dataset into a Pandas DataFrame. Display the first 10 rows and check for missing values.
+Q2: Clean the dataset by handling any missing values or duplicates.
+Q3: Convert categorical variables like "Diagnosis" (Benign or Malignant) into numeric values using appropriate encoding.
+Q4: Check the correlation between numeric features like mean_radius, mean_texture, and the target variable "Diagnosis".
+Q5: What are the distribution patterns for numeric variables like mean_radius, mean_texture?
+Q6 check outliers and handle it 
+
+Classification Models
+Q7: Split the dataset into training and testing sets using train_test_split().
+Q8:Build and evaluate a Logistic Regression / Decision Tree /  Random Forest model
+
+Q9: Evaluate the model’s performance using metrics like accuracy, precision, recall, and F1-score.
+
+
+power bi 
+
+Q1: showing the count of tumors classified as Benign and Malignant.
+Q2: Create a Pie Chart to show the proportion of Benign and Malignant tumors.
+Q3: Visualize the average tumor size (mean_radius) for Benign and Malignant tumors.
+Q4: show the average tumor size (mean_radius) based on the Age Group.
+Q5: Create a Card Visual to display the total number of records in the dataset.
+Q6:showing the top 5 tumors with the largest mean_radius.
+Q7: Create a Line Chart to show the trend of tumor size (mean_radius) across age groups.
+
