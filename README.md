@@ -1,6 +1,6 @@
 # Breast Cancer Analysis Project  
 
-This project focuses on analyzing a **breast cancer dataset** using **data preprocessing, exploratory data analysis (EDA), and visualization with Power BI**. The goal is to gain insights into the dataset and present the findings through an interactive dashboard.  
+This project focuses on analyzing a **breast cancer dataset** using **data preprocessing, exploratory data analysis (EDA), machine learning models, and visualization with Power BI**. The goal is to gain insights into the dataset and present the findings through an interactive dashboard.  
 
 ## Project Contents  
 - **breast-cancer.csv** → The dataset used for analysis.  
@@ -12,14 +12,15 @@ This project focuses on analyzing a **breast cancer dataset** using **data prepr
 ## Key Features  
 ✅ **Data Cleaning & Preprocessing** – Handling missing values and ensuring data quality.  
 ✅ **Exploratory Data Analysis (EDA)** – Understanding the dataset through statistical analysis.  
+✅ **Machine Learning Models** – Training and evaluating classification models to predict breast cancer.  
 ✅ **Power BI Dashboard** – Visualizing trends and patterns in breast cancer data.  
 
 ## How to Use  
-1. **Jupyter Notebook:** Open `breast-cancer_clean.ipynb` to explore data preprocessing steps.  
+1. **Jupyter Notebook:** Open `breast-cancer_clean.ipynb` to explore data preprocessing and model training.  
 2. **Power BI Dashboard:** Load `breast cancer dashboard.pbix` in Power BI to interact with the data.  
 3. **Dataset:** The dataset (`breast-cancer.csv`) can be used for further analysis.  
 
 ## Tools & Technologies  
-- **Python (Pandas, NumPy, Matplotlib, Seaborn)** for data analysis  
-- **Jupyter Notebook** for preprocessing  
+- **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)** for data analysis and machine learning  
+- **Jupyter Notebook** for preprocessing and model training  
 - **Power BI** for interactive visualizations  
